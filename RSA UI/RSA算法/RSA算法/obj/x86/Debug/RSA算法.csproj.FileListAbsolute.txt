@@ -1,0 +1,9 @@
+C:\Users\XRJ\Desktop\a\RSA算法\RSA算法\obj\x86\Debug\RSA算法.Properties.Resources.resources
+C:\Users\XRJ\Desktop\a\RSA算法\RSA算法\obj\x86\Debug\RSA算法.csproj.GenerateResource.Cache
+C:\Users\XRJ\Desktop\a\RSA算法\RSA算法\obj\x86\Debug\RSA算法.Form1.resources
+C:\Users\XRJ\Desktop\a\RSA算法\RSA算法\bin\Debug\RSA算法.exe
+C:\Users\XRJ\Desktop\a\RSA算法\RSA算法\bin\Debug\RSA算法.pdb
+C:\Users\XRJ\Desktop\a\RSA算法\RSA算法\obj\x86\Debug\RSA算法.exe
+C:\Users\XRJ\Desktop\a\RSA算法\RSA算法\obj\x86\Debug\RSA算法.pdb
+C:\Users\XRJ\Desktop\RSA UI\RSA算法\RSA算法\obj\x86\Debug\RSA算法.exe
+C:\Users\XRJ\Desktop\RSA UI\RSA算法\RSA算法\obj\x86\Debug\RSA算法.pdb
